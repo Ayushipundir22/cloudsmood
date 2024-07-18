@@ -21,7 +21,7 @@ export default function WeatherApp() {
 
     return (
         <div>
-            <h3>Cloudsmood!</h3>
+            <h3>Cloudsmood!!</h3>
             <SearchBox updateInfo={updateInfo}/>
             <InfoBox info={weatherInfo}/>
         </div>
